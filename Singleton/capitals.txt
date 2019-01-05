@@ -1,0 +1,3 @@
+Tokyo 33200000
+NewYork 17800000
+SaoPaulo 17700000
